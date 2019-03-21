@@ -6,3 +6,6 @@ HEAD
 node_modules/
 .DS_Store
 package-lock.json
+
+# App-specific files
+app/data/credentials.js
