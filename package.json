@@ -1,0 +1,26 @@
+{
+  "name": "pricing-scraper",
+  "version": "1.0.0",
+  "description": "Pricing data web crawler using Nightmare.js",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nightmare": "^3.0.1",
+    "pg": "^7.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsli/pricing-scraper.git"
+  },
+  "author": "Robbie Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsli/pricing-scraper/issues"
+  },
+  "homepage": "https://github.com/robsli/pricing-scraper#readme"
+}
